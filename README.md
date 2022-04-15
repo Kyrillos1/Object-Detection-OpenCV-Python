@@ -1,7 +1,7 @@
-# Object-detection
-The Graduate Rotational Internship Program is a unique offer for students and recent graduates to experience and join The Sparks Foundation. In addition to skills-specific tasks, we encourage interns to build a credible professional profile Our Vision Statement A world of enabled and connected little minds, building future.
+# Object-Detection-OpenCV-Python
 
-Our Mission Statement To inspire students, help them innovate and let them integrate to build the next generation humankind. Inspire: To inspire, motivate and encourage students to learn, create and help build a better society. Innovate: To teach new ways of thinking, to innovate and solve the problems on their own. Integrate: To let the students integrate, and help each other, learn from each other and do well together.
+##Before
+![img2](https://user-images.githubusercontent.com/90329936/163593494-fd020246-5a73-4bc2-861f-33cbb216df87.jpg)
 
-
+##After
 ![download](https://user-images.githubusercontent.com/90329936/163593409-483bdbc2-7707-4043-918e-d96167de52cd.png)
